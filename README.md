@@ -1,4 +1,4 @@
-# Imaage Upload Project
+# Image Upload Project
 
 
 
